@@ -1,6 +1,9 @@
 public class Account {
+    // 계좌주
     private String owner;
+    // 잔액
     private int balance;
+    // 계좌번호
     private String accountNo;
 
     public String getAccountNo() {
